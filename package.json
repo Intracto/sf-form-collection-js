@@ -1,0 +1,10 @@
+{
+  "name": "sf-form-collection-js",
+  "main": "src/sf-form-collection-js",
+  "version": "0.0.1",
+  "description": "Javascript to handle Symfony form collections",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Intracto/sf-form-collection-js.git"
+  }
+}
